@@ -2,7 +2,7 @@
 Dataset: 
 
 1. LJSpeech
-2.
+2. Mini LibriSpeech
 
 Models :
 
